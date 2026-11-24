@@ -1,0 +1,30 @@
+{
+  "name": "Intel 8085 Microprocessor Kit Simulator",
+  "short_name": "8085 Kit",
+  "description": "Authentic interactive simulator of the M85 8085 Microprocessor Trainer Kit with 6-digit LED display, 28-key tactile keyboard, and full instruction set emulator.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#174828",
+  "theme_color": "#174828",
+  "categories": ["education", "utilities"],
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
